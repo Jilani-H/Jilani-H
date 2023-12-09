@@ -3,6 +3,7 @@ Hey there 👋 I am Jilani Hossain
 
 🌍  I am a Front-End Developer based in Dhaka, Bangladesh.
 <br/>
+     Currently working as a full-time freelance web developer.
 
 ### Skills
 
