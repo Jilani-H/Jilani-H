@@ -1,7 +1,7 @@
 Hey there 👋 I am Jilani Hossain
 ========================================================================================================================================
 
-🌍  I am a FUll-Stack Web Developer based in Dhaka, Bangladesh.
+🌍  I am a Full-Stack Web Developer based in Dhaka, Bangladesh.
 <br/>
 💻  Currently working as a full-time freelance web developer.
 
